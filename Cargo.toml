@@ -7,7 +7,7 @@ description = "A simple CLI tool to mock JSON API endpoints from a directory str
 license = "MIT"
 repository = "https://github.com/NameOfShadow/fakeroute"
 readme = "README.md"
-keywords = ["mock", "api", "json", "cli", "faker", "development", "tool", "utility"]
+keywords = ["mock", "api", "json", "cli", "faker"]
 categories = ["development-tools"]
 
 [dependencies]
