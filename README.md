@@ -1,5 +1,8 @@
 # FakeRoute
 
+[![Crates.io](https://img.shields.io/crates/v/fakeroute)](https://crates.io/crates/fakeroute)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 > Instant JSON API mock server for frontend development.
 
 FakeRoute watches a directory of `.json` files and serves them as REST endpoints.  
